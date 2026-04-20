@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PengRobert
 - 👀 I’m interested in classical music, traveling, cooking
-- 🌱 I’m currently learning Snowflake, Python, AI, Machine learning...
+- 🌱 I have been working in IT industry more than 20 years and focus on Database, Data Warehouse, Business Intelligence, AI , Machine learning...
 - 💞️ I’m looking to collaborate on AI project development
-- 📫 How to reach me 
+- 📫 You can reach me at pengxiaojiang@gmail.com
 
 <!---
 PengRobert/PengRobert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
